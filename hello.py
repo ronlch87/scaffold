@@ -3,7 +3,8 @@ def add(x, y):
 
 # var=
 result = add(1, 2)
-print(f"This sis the sum: 1, 2, {result}")
+# print(f"This sis the sum: 1, 2, {result}")
+print("This sis the sum: 1, 2,%s" %result)
 
 # x = 1
 # y = 2
